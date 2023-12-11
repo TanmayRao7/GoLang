@@ -1,0 +1,19 @@
+go 1.21.4
+
+use (
+	./02variables
+	./03userinput
+	./04conversions
+	./06mytime
+	./07pointers
+	./08myarrays
+	./09slices
+	./10maps
+	./11structs
+	./12ifelse
+	./19webRequests
+	./20urls
+	./21webreqverbs
+	./22json
+	./pkg/mod/golang.org/x/telemetry/config@v0.9.0
+)
